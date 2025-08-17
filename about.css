@@ -1,0 +1,34 @@
+
+*{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}.na{
+background-color: RGB(239, 101, 56);
+padding: 10px;
+}
+.an{
+   color: RGB(239, 101, 56)
+}
+.ho{
+   padding: 25px;
+   color: black;
+  
+   font-size: 15px;
+}
+.btn{
+    background-color:RGB(239, 101, 56) ;
+    justify-content: center;
+    color: white;
+}
+.abo{
+    background-color:RGB(240, 240, 240);
+}
+.second{
+     background-color:RGB(240, 240, 240);
+}
+.third{
+    background-color:RGB(240, 240, 240);
+}
+.ffont{
+   color: RGB(239, 101, 56);
+   font-size: 40px;
+}

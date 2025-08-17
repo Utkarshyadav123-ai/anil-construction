@@ -1,0 +1,98 @@
+
+*{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}.na{
+background-color: RGB(239, 101, 56);
+padding: 10px;
+color: white;
+}
+.an{
+   color: RGB(239, 101, 56)
+}
+.ho{
+   padding: 30px;
+   color: black;
+  
+   font-size: 20px;
+
+}
+.btn{
+    background-color:RGB(239, 101, 56) ;
+    justify-content: center;
+    color: white;
+    
+}
+.abb{
+   position:absolute;
+    left:10%;
+    top: 70%;
+    color: white;
+
+}
+.abc{
+   position: absolute;
+   left: 60%;
+   top: 70%;
+   color: white;
+   border: solid 2px white;
+   padding: 25px;
+}
+.villa{
+   padding: 30px;
+}
+.text{
+   background-color:aliceblue;
+}
+.news{
+   background-color:azure;
+   padding: 30px;
+}
+.new{
+   background-color: white;
+    padding: 30px;
+
+}
+.quality{
+   height: 700px;
+   width: 900px; justify-content : center;
+   background-color: 
+RGB(240, 240, 240);
+display: flex; 
+margin-top: 40px;
+
+}
+.qu{
+   padding: 40px;
+   font-size: 20px;
+  
+}
+.test{
+  background-color: 
+RGB(240, 240, 240);
+padding: 60px;
+
+
+}
+.ma{
+   padding: 35px;
+    
+}
+.usp{
+  background-color:  RGB(239, 101, 56);
+  padding: 60px;
+  font-size: 20px;
+  color: white;
+}
+.for{
+   padding: 80px;
+   font-size: 40px;
+   border: 4px solid red;
+   margin-top: 5px;
+}
+.borderr{
+   border: 3px solid brown;
+}
+.ffont{
+   color: RGB(239, 101, 56);
+   font-size: 40px;
+}
